@@ -1,4 +1,4 @@
-# Q&A Service over Industrial Safety PDFs  
+# Instinctive Studio - Q&A Service over Industrial Safety PDFs  
 
 ## Data Preparation  
 
