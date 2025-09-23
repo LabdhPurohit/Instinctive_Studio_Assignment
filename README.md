@@ -20,8 +20,8 @@ This ensured consistency between documents and metadata.
 
 1. **Clone the repo & install dependencies**  
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/LabdhPurohit/Instinctive_Studio_Assignment.git
+   cd Instinctive_Studio_Assignment
    pip install -r requirements.txt
    ```
 
